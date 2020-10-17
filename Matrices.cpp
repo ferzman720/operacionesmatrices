@@ -8,7 +8,7 @@ using namespace std;
     char opc{1};
     srand((int )time(0));
     std::cout << "¡Bienvenido!" << std::endl;
-    std::cout << "Ingresa la dimención de la matriz sera una matriz de nxn" << std::endl;
+    std::cout << "Ingresa la dimensión de la matriz sera una matriz de nxn" << std::endl;
     std::cin>>dim;
     int m[dim][dim];
     int m1[dim][dim];
